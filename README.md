@@ -1,5 +1,7 @@
 # Readme
 
+Translation Versions: [ENGLISH](./README.md) | [UKRAINIAN](./README.ua.md)
+
 This repo was created for 2 proposes:
 
 1. Hep students in learning OOP subject and simplify tasks submissions
